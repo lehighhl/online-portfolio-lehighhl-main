@@ -1,0 +1,44 @@
+title {
+  text-align: left;
+}
+
+body {
+  margin-bottom: 2%;
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  letter-spacing: 2.5px;
+  font-size: 1.5em;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  float: right;
+}
+
+.section {
+  font-size: smaller;
+}
+
+#personalBackground {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+#experience {
+  padding-top: 1em;
+}
+
+#programmingLanguages {
+  padding-top: 1em;
+}
+
+#achievements {
+  padding-top: 1em;
+}
+
+#games {
+  padding-top: 1em;
+}
